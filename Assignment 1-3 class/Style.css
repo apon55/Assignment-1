@@ -1,0 +1,53 @@
+ body{font-size: 20px;}
+ 
+ .headwrapper 
+{width:1200px; 
+     margin: 0 auto;}
+
+#pageheader
+{background-color: rgb(255, 176, 130);}
+
+
+#heading1{
+color: rgb(255, 3, 3);
+font-size: 50px;
+font-style: bold;
+text-align: center;}
+
+
+.menubar ul li 
+{display: inline ;}
+
+.menubar 
+{background-color: rgb(121, 250, 164);}
+
+img.logo{
+    width: 1200px;
+    height: auto;
+}
+
+img.bodypic1{
+    width: 500px;
+    height: auto;
+}
+
+.heading2
+{color: blue;
+font-size: 30px;
+text-align: center;}
+
+
+.p1class{color: lightcoral;}
+.p2class{color: rgb(255, 0, 255);}
+
+#inputdata{
+    color: brown;
+    font-size: 35px ;
+    font-style: italic;
+}
+
+
+
+table, th,td
+{border: 1px solid #000;}
+
